@@ -1,4 +1,4 @@
-# Graham Schomp
+# 🎮Graham Schomp🎮
 
 # 💫 About Me:
 I'm a full-stack developer and content creator working on building my version of the digital world, one project at a time. Whether it's crafting code for personal apps, building custom web portals, or diving into game development, I start from the ground up—planning, designing, and solving real-world problems with code. As I continue to grow as a software engineer, I combine my passion for technology and gaming, focusing on creating immersive digital experiences. My content and progress are shared through my channels, where I connect with like-minded individuals looking to build, create, and innovate in the world of game development.
